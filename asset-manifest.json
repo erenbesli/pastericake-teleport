@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pastericake-teleport/static/css/main.3a6df936.css",
+    "main.js": "/pastericake-teleport/static/js/main.dbe12bfa.js",
+    "index.html": "/pastericake-teleport/index.html",
+    "main.3a6df936.css.map": "/pastericake-teleport/static/css/main.3a6df936.css.map",
+    "main.dbe12bfa.js.map": "/pastericake-teleport/static/js/main.dbe12bfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a6df936.css",
+    "static/js/main.dbe12bfa.js"
+  ]
+}
